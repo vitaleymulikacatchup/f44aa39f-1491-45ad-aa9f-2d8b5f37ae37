@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -28,7 +28,7 @@ export default function Home() {
       cardStyle="layered-gradient"
       primaryButtonStyle="shadow"
       secondaryButtonStyle="radial-glow"
-      showBlurBottom={true}
+      showBlurBottom="true"
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingInline
@@ -454,8 +454,6 @@ export default function Home() {
               ]
             }
           ]}
-          brandName="Xeven Solutions"
-          copyrightText="© 2025 | Xeven Solutions"
         />
       </div>
     </ThemeProvider>
