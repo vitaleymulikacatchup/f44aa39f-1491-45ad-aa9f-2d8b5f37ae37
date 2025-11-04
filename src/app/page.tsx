@@ -88,7 +88,7 @@ export default function Home() {
       <div id="features" data-section="features">
         <FeatureCardOne
           title="Powerful Features"
-          description="Discover the comprehensive suite of tools that make Xeven Solutions the preferred choice for forward-thinking businesses."
+          description="Experience the complete range of tools that position Xeven Solutions as the top choice for innovative, forwardthinking businesses"
           tag="Platform Features"
           tagIcon={Star}
           features={[
