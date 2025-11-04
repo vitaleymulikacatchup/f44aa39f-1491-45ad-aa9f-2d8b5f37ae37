@@ -48,7 +48,7 @@ export default function Home() {
       
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Transform Your Business with Intelligent SaaS Solutions"
+          title="Elevate Your Business with Smart SaaS Solutions"
           description="Streamline operations, boost productivity, and accelerate"
           tag="Next-Gen Platform"
           tagIcon={Zap}
