@@ -276,7 +276,7 @@ export default function Home() {
               id: "1",
               name: "Sarah Chen",
               role: "CEO & Founder",
-              imageSrc: "https://images.pexels.com/photos/8871904/pexels-photo-8871904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1762284518951-i9au3v5x.png",
               imageAlt: "Sarah Chen, CEO"
             },
             {
