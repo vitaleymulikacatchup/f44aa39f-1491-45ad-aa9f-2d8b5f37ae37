@@ -62,7 +62,7 @@ export default function Home() {
               href: "demo"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/577195/pexels-photo-577195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1761944112745-1oxye7oq.png"
           imageAlt="Xeven Solutions dashboard interface"
           frameStyle="browser"
         />
