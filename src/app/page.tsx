@@ -301,7 +301,7 @@ export default function Home() {
               id: "1",
               name: "Emily Watson",
               role: "VP of Operations, TechFlow Inc",
-              testimonial: "Xeven Solutions transformed our workflow efficiency by 300%. The automation features saved us countless hours and significantly improved our bottom line.",
+              testimonial: "Xeven Solutions boosted our workflow efficiency by 300% Its automation capabilities saved us countless hours and dramatically enhanced our bottom line",
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
               imageAlt: "Emily Watson testimonial"
             },
